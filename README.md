@@ -2,9 +2,9 @@
   <a href="url"><img src="https://github.com/OdiaGenAI/Olive_Scrapper/blob/main/olive_webscrapping.jpg" height="auto" width="200" style="border-radius:100%"></a>
 </p>
 
-<div style="text-align: center">
-  <h3>Olive Scrapper</h3>
-</div>
+
+<h1 align ="center">Olive Scrapper</h1>
+
 
 <h2>Introduction</h2>
     <p>This is a web scraper tool designed to extract <b>Odia data</b> from websites and collect relevant information for further
